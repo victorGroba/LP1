@@ -1,12 +1,7 @@
 {
     "files.associations": {
-<<<<<<< HEAD
-        "stdlib.h": "c"
-    }
-=======
         "locale.h": "c",
         "string.h": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
->>>>>>> cefe34e71324abbc23ba63b6379045ea23a954b7
 }
